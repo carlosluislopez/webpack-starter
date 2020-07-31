@@ -10,4 +10,4 @@ todolist.todos.forEach( crearTodoHTML );
 //const newTodo = new Todo('Instancias');
 //todolist.nuevoTodo(newTodo);
 
-console.info('todos', todolist.todos);
+//console.info('todos', todolist.todos);
